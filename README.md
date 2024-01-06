@@ -1,5 +1,5 @@
 # Introduction
-This repository is more than anything to practice and reinforce ideas, it is not designed to learn programming from scratch. Most of the content of this repository was taken from other websites, the idea of this is just to group the best material of each subject into one place.
+Most of the content of this repository was taken from other websites, the idea of this is just to group the best material of each subject into one place.
 
 # Setup
 1. In the terminal, run this command:
