@@ -7,5 +7,6 @@ name = 'pypi'
 python_version = '3.10'
 
 [packages]
+ipykernel = "==6.28.0"
 
 [dev-packages]
