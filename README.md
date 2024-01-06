@@ -10,5 +10,5 @@ This will establish that the virtual environment is always created in the reposi
 2. Then run:
 > pipenv install
 
-# Biblipgraphy
+# Bibliography
 - intro_to_programming: https://www.kaggle.com/learn/intro-to-programming
