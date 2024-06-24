@@ -14,4 +14,5 @@ This will establish that the virtual environment is created in the repository fo
 Most of the exercise will have some assert lines so you can know if the exercise was solved correctly. If you see an assertion error, it means that something is wrong
 
 # Bibliography
-- intro_to_programming: https://www.kaggle.com/learn/intro-to-programming
+- 01_intro_to_programming: https://www.kaggle.com/learn/intro-to-programming
+- 02_python: https://www.kaggle.com/learn/python
